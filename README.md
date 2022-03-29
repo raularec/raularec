@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raularec
-- 👀 I’m interested in music production, software development
-- 🌱 I’m currently learning computer systems, and fundamentals of human computer interaction
+- 👀
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
